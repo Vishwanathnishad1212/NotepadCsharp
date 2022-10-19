@@ -1,0 +1,14 @@
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe.config
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.pdb
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csprojResolveAssemblyReference.cache
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.Form1.resources
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.NotepadForm.FindDialoge.resources
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.NotepadForm.NotepadMessage.resources
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.NotepadForm.ReplaceDialoge.resources
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.Properties.Resources.resources
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csproj.GenerateResource.cache
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csproj.CoreCompileInputs.cache
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.exe
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.pdb
+C:\Users\GoddessQueen-786\source\repos\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.NotepadForm.GotoDialoge.resources
